@@ -59,5 +59,9 @@
   sudo systemctl restart nginx
 ```
 
+## Reference
 
+[Reference 01](https://medium.com/@idrisaziz52/bagaimana-cara-deploy-reactjs-dengan-nginx-55e989f4eb56)
+
+[Reference 02](https://www.digitalocean.com/community/tutorials/deploy-react-application-with-nginx-on-ubuntu)
 
